@@ -1,0 +1,14 @@
+        == Welcome to Ultra Hosting Solution ==
+            Thanks for using this software! :) 
+   
+   -- NOTICE: THIS SOFTWARE IS STILL IN DEVELOPMENT! --
+   
+   
+    
+                 == How to install? ==
+         1. Create database on your MySQL Server
+         2. Upload the sql file to your database
+         3. Edit MySQL Settings in /lib/settings.php
+         4. Open website, create new user.
+         5. Edit your account in table Accounts, set Admin to 1
+         6. Finish
